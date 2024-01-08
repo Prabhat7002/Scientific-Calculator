@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="clearAll">C</string>
+    <string name="exponent">^</string>
+    <string name="open_parenthesis">(</string>
+    <string name="close_parenthesis">)</string>
+    <string name="divide">/</string>
+    <string name="multiply">x</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+
+    <string name="braces">(     )</string>
+    <string name="point">.</string>
+    <string name="equal">=</string>
+    <string name="backspace"> </string>
+    <string name="display">Enter a value</string>
+
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+
+    <string name="sin_inverse">sin<sup><small>-1</small></sup></string>
+    <string name="cos_inverse">cos<sup><small>-1</small></sup></string>
+    <string name="tan_inverse">tan<sup><small>-1</small></sup></string>
+
+    <string name="log10">log<sub><small>10</small></sub></string>
+    <string name="log2">log<sub><small>2</small></sub></string>
+    <string name="inverse">1/x</string>
+    <string name="square">x<sup><small>2</small></sup></string>
+    <string name="cube">x<sup><small>3</small></sup></string>
+    <string name="power">x<sup><small>n</small></sup></string>
+
+    <string name="rad">rad</string>
+    <string name="fact">x!</string>
+    <string name="square_root">√</string>
+    <string name="natural_log">ln</string>
+
+    <string name="piText">π</string>
+    <string name="eText">e</string>
+    <string name="eText_power">e<sup><small>x</small></sup></string>
+    <string name="degree">deg</string>
+
+
+
+
+</resources>
